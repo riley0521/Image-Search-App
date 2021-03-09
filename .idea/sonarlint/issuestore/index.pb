@@ -31,3 +31,5 @@ Kapp/src/main/java/com/codinginflow/imagesearchapp/ImageSearchApplication.kt,e\
 Papp/src/main/java/com/codinginflow/imagesearchapp/ui/gallery/GalleryViewModel.kt,6\e\6ecffc304dc500c07b7c103fea633f7ce26356e5
 ç
 ]app/src/main/java/com/codinginflow/imagesearchapp/ui/gallery/UnsplashPhotoLoadStateAdapter.kt,a\1\a110f60c53ca57ce48ac766528543b20f8273e36
+
+Oapp/src/main/java/com/codinginflow/imagesearchapp/ui/details/DetailsFragment.kt,8\0\80b24543fca3d4a4ccf49e14811bf5b22ca7d6e4
